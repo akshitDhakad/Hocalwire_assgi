@@ -1,0 +1,16 @@
+# Hocalwire Labs Assignment
+
+## Overview
+This project is a single-page HTML website designed to showcase news articles in a visually appealing layout. The website utilizes HTML and CSS for structure and styling, respectively, and incorporates Font Awesome for icons.
+
+## Features
+- Responsive design that adapts to different screen sizes ensuring a seamless experience across devices.
+- Integration of Font Awesome icons to enhance the visual appeal and user interface.
+- A dedicated news article section with a realistic news studio background image to create an engaging user experience.
+
+## Setup
+To get the website running locally on your machine, follow these simple steps:
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/akshitDhakad/Hocalwire_assgi
